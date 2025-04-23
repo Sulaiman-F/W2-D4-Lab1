@@ -32,7 +32,8 @@ img {
     border-radius: 5%;
 }
 
-ul {
+ul,
+li {
     list-style: none;
 }
 
